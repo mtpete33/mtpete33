@@ -3,10 +3,12 @@
 I'm a full-stack web developer focused on building fun, interactive, and useful web applications — from word games and personal tracking tools to full-featured apps for friends, family, and freelance clients. 
 
 ### 👨‍💻 What I’m Working On
+- 💼 **Freelance Projects** – Private full-stack websites and tools built for clients, including business sites, custom CMS features, and database integrations
 - 🧠 **Borders** – a daily word game with multiple solutions and a Firebase-powered leaderboard  
 - 🔠 **7Letters Solitaire** – a single-player word game combining strategy and luck  
 - 🏀 **Pool B March Madness Tracker** – a custom fantasy draft scoring app for my family's NCAA tournament pool
 - 🚭 **Quitter’s Resource** – a passion project to help people quit nicotine and stay motivated
+
 
 ### 🧰 Tech I Use
 - **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap  
