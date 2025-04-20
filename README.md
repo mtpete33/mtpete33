@@ -24,4 +24,4 @@ I'm a full-stack web developer focused on building fun, interactive, and useful 
 
 ---
 
-> Always learning. Always building. Always trying to make something people will actually use.
+> Always learning. Always building. Having fun while I do.
