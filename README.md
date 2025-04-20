@@ -1,10 +1,27 @@
-- 👋 Hi, I’m @mtpete33
-- 👀 I’m interested in software and web development
-- 🌱 I’m currently learning how to build iOS and Android Apps, UNIX/Linux, Systems Analysis and Design
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -- mtpete33@gmail.com
+# 👋 Hi, I’m Michael Peterson
 
-<!---
-mtpete33/mtpete33 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a full-stack web developer focused on building fun, interactive, and useful web applications — from word games and personal tracking tools to full-featured apps for friends, family, and freelance clients. 
+
+### 👨‍💻 What I’m Working On
+- 🧠 **Borders** – a daily word game with multiple solutions and a Firebase-powered leaderboard  
+- 🔠 **7Letters Solitaire** – a single-player word game combining strategy and luck  
+- 🏀 **Pool B March Madness Tracker** – a custom fantasy draft scoring app for my family's NCAA tournament pool
+- 🚭 **Quitter’s Resource** – a passion project to help people quit nicotine and stay motivated
+
+### 🧰 Tech I Use
+- **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap  
+- **Backend:** Firebase, Node.js, MySQL, PHP  
+- **Tools:** Replit, Git, GitHub, Visual Studio Code, Cursor IDE   
+- **Learning:** iOS & Android app dev, UNIX/Linux, Systems Analysis & Design, PC Applications, AWS, node.js, Heroku
+
+### 💡 Fun Facts
+- I build projects that solve real problems or bring joy — sometimes both.
+- I value clean, readable code, smooth user experience, great user interfaces, and projects that work well on both desktop and mobile.
+
+### 📫 Reach Me
+- Email: **mtpete33@gmail.com**
+- GitHub: [@mtpete33](https://github.com/mtpete33)
+
+---
+
+> Always learning. Always building. Always trying to make something people will actually use.
