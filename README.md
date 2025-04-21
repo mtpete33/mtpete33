@@ -1,6 +1,6 @@
 # 👋 Hi, I’m Michael Peterson
 
-I'm a full-stack web developer focused on building fun, interactive, and useful web applications — from word games and personal tracking tools to full-featured apps for friends, family, and freelance clients. 
+I'm a full-stack developer focused on building fun, interactive, and useful web applications — from word games and personal tracking tools to full-featured apps for friends, family, and freelance clients. 
 
 ### 👨‍💻 What I’m Working On
 - 💼 **Freelance Projects** – Private full-stack websites and tools built for clients, including business sites, custom CMS features, and database integrations
@@ -13,7 +13,7 @@ I'm a full-stack web developer focused on building fun, interactive, and useful 
 ### 🧰 Tech I Use
 - **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap  
 - **Backend:** Firebase, Node.js, MySQL, PHP  
-- **Tools:** Replit, Git, GitHub, Visual Studio Code, Cursor IDE   
+- **Tools:** Replit, Git, GitHub, Visual Studio Code, Cursor IDE, Various APIs   
 - **Learning:** iOS & Android app dev, UNIX/Linux, Systems Analysis & Design, PC Applications, AWS, node.js, Heroku
 
 ### 💡 Fun Facts
