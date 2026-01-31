@@ -12,13 +12,13 @@ I'm a full-stack developer who builds fun, interactive, and useful web applicati
 
 ### 🧰 Tech I Use
 - **Frontend:** HTML, CSS, JavaScript, jQuery, Bootstrap  
-- **Backend:** Firebase, Node.js, MySQL, PHP, Next.js, Express  
+- **Backend:** Firebase, Node.js, MySQL, PHP, Next.js, Express, PostgreSQL
 - **Tools:** Replit, Git, GitHub, Visual Studio Code, Cursor IDE, phpmyadmin, MySQL Workbench, Various APIs   
-- **Learning:** iOS & Android app dev, UNIX/Linux, Systems Analysis & Design, PC Applications, AWS, Heroku, IBM i, DB2, Delphi, RPG, CL  
+- **Learning:** iOS & Android app dev, UNIX/Linux, Systems Analysis & Design, AWS, Heroku, IBM i, DB2, Delphi, RPG, CL  
 
 ### 💡 Fun Facts
 - I build projects that solve real problems or bring joy — sometimes both.
-- I value clean, readable code, smooth user experience, great user interfaces, and projects that work well on both desktop and mobile.
+- I value clean, readable code, smooth user experience, great user interfaces, and responsive projects that work well across different devices.
 
 ### 📫 Reach Me
 - Email: **mtpete33@gmail.com**
